@@ -1,0 +1,3 @@
+|                                                              |                                                                                  |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| [RetryableRequest](/fetch-client/typealias/retryablerequest) | [ValidInterceptorMethodName](/fetch-client/typealias/validinterceptormethodname) |

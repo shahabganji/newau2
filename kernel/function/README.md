@@ -1,0 +1,15 @@
+|                                                                                                         |                                                                                 |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [bound](/kernel/function/bound)                                                                         | [buildQueryString](/kernel/function/buildquerystring)                           |
+| [compareNumber](/kernel/function/comparenumber)                                                         | [firstDefined](/kernel/function/firstdefined)                                   |
+| [fromAnnotationOrDefinitionOrTypeOrDefault](/kernel/function/fromannotationordefinitionortypeordefault) | [fromAnnotationOrTypeOrDefault](/kernel/function/fromannotationortypeordefault) |
+| [fromDefinitionOrDefault](/kernel/function/fromdefinitionordefault)                                     | [isArrayIndex](/kernel/function/isarrayindex)                                   |
+| [isNullOrUndefined](/kernel/function/isnullorundefined)                                                 | [isNumberOrBigInt](/kernel/function/isnumberorbigint)                           |
+| [isObject](/kernel/function/isobject)                                                                   | [isStringOrDate](/kernel/function/isstringordate)                               |
+| [join](/kernel/function/join)                                                                           | [mergeArrays](/kernel/function/mergearrays)                                     |
+| [mergeDistinct](/kernel/function/mergedistinct)                                                         | [mergeObjects](/kernel/function/mergeobjects)                                   |
+| [metadata](/kernel/function/metadata)                                                                   | [nextId](/kernel/function/nextid)                                               |
+| [parseQueryString](/kernel/function/parsequerystring)                                                   | [relativeToFile](/kernel/function/relativetofile)                               |
+| [resetId](/kernel/function/resetid)                                                                     | [singleton](/kernel/function/singleton)                                         |
+| [toArray](/kernel/function/toarray)                                                                     | [toLookup](/kernel/function/tolookup)                                           |
+| [transient](/kernel/function/transient)                                                                 |                                                                                 |

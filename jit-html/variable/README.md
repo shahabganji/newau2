@@ -1,0 +1,12 @@
+|                                                                                             |                                                                                               |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [AttrBindingCommandRegistration](/jit-html/variable/attrbindingcommandregistration)         | [CaptureBindingCommandRegistration](/jit-html/variable/capturebindingcommandregistration)     |
+| [ClassBindingCommandRegistration](/jit-html/variable/classbindingcommandregistration)       | [CustomElementSymbol](/jit-html/variable/customelementsymbol)                                 |
+| [DefaultBindingLanguage](/jit-html/variable/defaultbindinglanguage)                         | [DefaultComponents](/jit-html/variable/defaultcomponents)                                     |
+| [DelegateBindingCommandRegistration](/jit-html/variable/delegatebindingcommandregistration) | [IAttrSyntaxTransformer](/jit-html/variable/iattrsyntaxtransformer)                           |
+| [IAttrSyntaxTransformerRegistation](/jit-html/variable/iattrsyntaxtransformerregistation)   | [ITemplateCompilerRegistration](/jit-html/variable/itemplatecompilerregistration)             |
+| [ITemplateElementFactory](/jit-html/variable/itemplateelementfactory)                       | [ITemplateElementFactoryRegistration](/jit-html/variable/itemplateelementfactoryregistration) |
+| [LetElementSymbol](/jit-html/variable/letelementsymbol)                                     | [PlainElementSymbol](/jit-html/variable/plainelementsymbol)                                   |
+| [RefBindingCommandRegistration](/jit-html/variable/refbindingcommandregistration)           | [ReplacePartSymbol](/jit-html/variable/replacepartsymbol)                                     |
+| [StyleBindingCommandRegistration](/jit-html/variable/stylebindingcommandregistration)       | [TemplateControllerSymbol](/jit-html/variable/templatecontrollersymbol)                       |
+| [TextSymbol](/jit-html/variable/textsymbol)                                                 | [TriggerBindingCommandRegistration](/jit-html/variable/triggerbindingcommandregistration)     |

@@ -1,0 +1,4 @@
+|                                                                                               |                                                                           |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [TranslationBindInstructionType](/i18n/t/variable/translationbindinstructiontype)             | [TranslationInstructionType](/i18n/t/variable/translationinstructiontype) |
+| [TranslationParametersInstructionType](/i18n/t/variable/translationparametersinstructiontype) |                                                                           |
